@@ -1,0 +1,3 @@
+Koolance's Thermal Management Software (TMS) enables complete user control of Koolance liquid cooling systems via a Windows graphical user interface. Using the associated hardware board, TMS includes all functions found in Koolance's most advanced liquid cooling products, and adds even more features and control.
+
+The TMS source code is originally written in Visual Basic for Windows XP (32bit or 64bit) and Windows Vista. All necessary source files are included in this package. For details on interfacing with the TMS hardware card, please see "tms\_communications\_protocol.txt".
